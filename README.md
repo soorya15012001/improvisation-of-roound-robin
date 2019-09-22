@@ -1,0 +1,2 @@
+# improvisation-of-roound-robin
+modified round robin scheduling algorithm which works on a dynamic time quantum, which changes after every round of execution. This will help in reducing the average waiting time, average turnaround time and reduce the number of context switch. We calculate a intelligent time slice (ITS) is calculated based on the priority, shortest CPU burst time and context switch.
